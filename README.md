@@ -25,12 +25,12 @@ I’m a software engineering student who loves solving puzzles through code. Cur
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,docker,bash,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,docker,bash,git,github,vscode,postman&theme=dark" />
   </a>
   <br>
-  
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,angular,nodejs,express,spring,java,mysql,postgresql,mongodb,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,react,angular,nodejs,express,spring,java,mysql,postgresql,mongodb&theme=dark" />
   </a>
 </p>
 
