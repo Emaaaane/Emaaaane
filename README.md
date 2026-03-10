@@ -7,11 +7,6 @@ I’m a software engineering student who loves solving puzzles through code. Cur
 ---
 
 ### 👤 My 42 Journey
-<p align="center">
-  <a href="https://profile.intra.42.fr/users/imel-haj">
-    <img src="https://badge42.app/api/v2/cl0j5j1z6000009l8z6o4n5z6/project/2513465" alt="42 Profile Card" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github-readme-42-stats.vercel.app/api/?username=imel-haj&theme=tokyonight" alt="imel-haj's 42 stats" />
@@ -33,15 +28,12 @@ I’m a software engineering student who loves solving puzzles through code. Cur
     <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,docker,bash,git,github,vscode&theme=dark" />
   </a>
   <br>
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,angular,nodejs,express,spring,java,mysql,postgresql,mongodb,postman&theme=dark" />
   </a>
 </p>
 
----
-
-### 📊 GitHub Activity
-![Emane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imel-haj&show_icons=true&theme=tokyonight)
 
 ---
 
