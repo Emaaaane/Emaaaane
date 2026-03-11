@@ -11,6 +11,14 @@ I’m a software engineering student who loves solving puzzles through code. Cur
 <p align="center">
   <img src="https://github-readme-42-stats.vercel.app/api/?username=imel-haj&theme=tokyonight" alt="imel-haj's 42 stats" />
 </p>
+<p align="center">
+  <a href="https://profile.intra.42.fr/users/imel-haj">
+    <img src="https://img.shields.io/badge/1337-Profile_imel--haj-black?style=for-the-badge&logo=42&logoColor=white" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/Status-In_Progress-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Common_Core-blue?style=flat-square" />
+</p>
 
 ---
 
@@ -25,7 +33,7 @@ I’m a software engineering student who loves solving puzzles through code. Cur
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,docker,bash,git,github,vscode,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,docker,bash,git,github,vscode&theme=dark" />
   </a>
   <br>
 
